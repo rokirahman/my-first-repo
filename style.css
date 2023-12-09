@@ -7,3 +7,12 @@ h1 {
 p {
   color: purple;
 }
+body img {
+  width: 100%;
+  height: auto;
+}
+body div img {
+  width: 300px;
+  height: 400px;
+  display: block;
+}
